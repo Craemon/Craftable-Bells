@@ -6,18 +6,10 @@
         "SNS"
     ],
     "key": {
-        "W": {
-            "item": "minecraft:stick"
-        },
-        "S": {
-            "item": "minecraft:stone"
-        },
-        "B": {
-            "item": "minecraft:gold_block"
-        },
-        "N": {
-            "item": "minecraft:gold_nugget"
-        }
+        "W": "minecraft:stick",
+        "S": "minecraft:stone",
+        "B": "minecraft:gold_block",
+        "N": "minecraft:gold_nugget"
     },
     "result": {
         "id": "minecraft:bell",
